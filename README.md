@@ -15,6 +15,6 @@
   <img align="center" alt="C#" src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white"/>
   </div>
   <br>
-  -Atualmente estudo Engenharia de Software na UNICESUMAR 📚
-  -Estudando front-end na Alura 📚💻
-  -Trabalho como técnico de suporte na empresa Espaço Solução Sistemas 💻🎧🏡
+  -Atualmente estudo Engenharia de Software na UNICESUMAR 📚 <br/>
+  -Estudando front-end na Alura 📚💻 <br/>
+  -Trabalho como técnico de suporte na empresa Espaço Solução Sistemas 💻🎧🏡 <br/>
