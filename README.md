@@ -14,7 +14,8 @@
   <img align="center" alt="JAVA" src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white"/>
   <img align="center" alt="C#" src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white"/>
   </div>
-  
-  ### .Atualmente estudo Engenharia de Software na UNICESUMAR 📚
-  ### .Estudando front-end na Alura 📚💻
-  ### .Trabalho como técnico de suporte na empresa Espaço Solução Sistemas 💻🎧🏡
+  <br>
+  <br>
+  ### -Atualmente estudo Engenharia de Software na UNICESUMAR 📚
+  ### -Estudando front-end na Alura 📚💻
+  ### -Trabalho como técnico de suporte na empresa Espaço Solução Sistemas 💻🎧🏡
